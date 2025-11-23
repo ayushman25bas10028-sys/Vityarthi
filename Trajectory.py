@@ -1,7 +1,6 @@
 import math
 import matplotlib.pyplot as plt
 
-# Get user inputs
 weight = float(input("Enter plane weight (grams): "))
 launch_angle_deg = float(input("Enter launch angle (degrees): "))
 initial_speed = float(input("Enter initial speed (m/s): "))
